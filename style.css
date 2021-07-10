@@ -1,0 +1,25 @@
+body{
+    font-family: 'Hammersmith One', sans-serif;
+}
+
+h1,h3{
+    color: #4546ec;
+}
+
+.btn-cover .btn-info{
+    background-color: rgb(99, 185, 235);
+    border-color:  rgb(99, 185, 235);
+}
+.cover {
+    padding: 12em;
+    background: url(https://image.freepik.com/vector-gratis/observacion-consejos-sugerencias-graficos-computadora-masterclass-diseno-digital-curso-linea-informacion-util-preparacion-examen-pintura_335657-3272.jpg);
+    background-repeat: no-repeat;
+    background-size: cover;
+  }
+.conference-div{
+    margin: auto;
+}
+
+.conference-text{
+    padding: 3em;
+}
